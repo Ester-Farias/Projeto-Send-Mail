@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="imgs/gif/gif.gif">
+    <img src="Imgs/GIFSendMail.gif">
     <p>Your private email sending app!<br> 
     Seu app de envio de e-mails particular!</p>
 </h1>
@@ -20,12 +20,6 @@ Um projeto desenvolvido para aprimorar os conhecimentos aprendidos do PDO, try, 
 
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [PHP](https://www.php.net/)
-
-<br>
-
-## 📸 More Images
-
-<img src="Imgs/GIFSendMail.gif">
 
 <br>
 
