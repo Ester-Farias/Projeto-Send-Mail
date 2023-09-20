@@ -47,4 +47,4 @@ Um projeto desenvolvido para aprimorar os conhecimentos aprendidos do PDO, try, 
 ```
 
 ## 📃 License
-This project is under the MIT license. See the file [LICENSE]([https://github.com/Ester-Farias/Projeto-Send-Mail/blob/master/LICENSE]) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
