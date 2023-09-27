@@ -1,9 +1,9 @@
+<img src="Imgs/GIFSendMail.gif">
 <h1 align="center">
-    <img src="Imgs/GIFSendMail.gif">
-    <p>Your private email sending app!<br> 
-    Seu app de envio de e-mails particular!</p>
+<p>Your private email sending app!<br> 
+Seu app de envio de e-mails particular!</p>
 </h1>
-<h3 align="center"><a href="http://appsendmail.free.nf">See the project here!<br>
+<h3 align="center"><a href="#">See the project here!<br>
 Veja o projeto aqui!</a></h3>
 <hr>
 
@@ -47,4 +47,4 @@ Um projeto desenvolvido para aprimorar os conhecimentos aprendidos do PDO, try, 
 ```
 
 ## 📃 License
-This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+This project is under the MIT license. See the file [LICENSE](https://github.com/Ester-Farias/Portfolio-fotografo-rafael-silva/blob/master/LICENSE) for more details.
